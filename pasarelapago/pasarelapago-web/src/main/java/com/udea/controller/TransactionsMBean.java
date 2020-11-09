@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package com.udea.controller;
-
 import com.udea.session.TransactionManager;
 import java.util.List;
 import javax.ejb.EJB;
